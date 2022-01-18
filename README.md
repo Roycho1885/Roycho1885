@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Roycho1885.
+- 👋 Hi, I’m Roy.
 - 👀 I’m interested in all about technology.
 - 🌱 I’m currently learning programing in Flutter.
 - 🐱‍🏍 I like challenges and the desire to improve myself day by day.
